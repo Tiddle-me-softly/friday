@@ -1,0 +1,36 @@
+#unique,
+.more-unique{
+    font-size: 32px;
+}
+
+
+.more-unique{
+    background-color: bisque;
+    color: firebrick;
+}
+
+.title{
+    text-align: center;
+    font-size: 48px;
+
+}
+
+#unique{
+    background-color: beige;
+
+
+}
+
+.list{
+    background-color: beige;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: Verdana, Times, serif-sans;
+}
+
+#Yo-Dawg{
+height: auto;
+width: 400px;
+
+
+}
